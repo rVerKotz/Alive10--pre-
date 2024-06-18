@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Alergi",
+        "gejala": "Pilek, Ruam kulit yang gagal, Sesak nafas",
+        "penyebab": "Debu, Bulu hewan, Gigitan serangga, Obat-obatan, Keringat",
+        "pengobatan": "CTM (Alergi dalam), Incidal"
+    },
+    {
+        "id": 2,
+        "title": "Demam",
+        "gejala": "Suhu lebih dari 38°C, Sakit kepala, Berkeringat, Menggigil, Lemas, Hilang nafsu makan, Pilek, Batuk",
+        "penyebab": "Cuaca panas dalam waktu lama, Infeksi virus, Obat-obatan seperti antibiotik",
+        "pengobatan": "Paracetamol, seperti panadol hijau (Untuk flu) & biru untuk hal lain, Sanmol"
+    },
+    {
+        "id": 3,
+        "title": "GERD",
+        "gejala": "Nyeri atau sensasi terbakar di ulu hati, sesak nafas, mulut terasa pahit, asam lambung ke kerongkongan",
+        "penyebab": "Katup atas lambung (Lower Esophageal Sphincter) tidak menutup, Obesitas, Merokok, Diabetes, Kurang Kalsium",
+        "pengobatan": "Antasida Doen, Plantacid Forte, Polysilane, Omeprazole, Tidak boleh memakan makanan pedas, beragi, produk susu, kasein, Tidak boleh tidur setelah 2-3 jam setelah makan"
+    }
+]

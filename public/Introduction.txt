@@ -1,0 +1,9 @@
+Website ini dibuat oleh Savero Madajaya menggunakan Typescript ReactJS.
+
+Tujuan dari website ini berfungsi untuk menyediakan informasi sederhana mengenai penyakit-penyakit umum yang sering terjadi di masyarakat.
+
+Apa aja sih yang diinformasikan?
+Answer: Nama penyakit, Gejala, Penyebab, dan Pengobatan.
+
+Kredibel gak nih?
+Answer: Jawaban yang disediakan merupakan kompilasi dari pelatihan UMN Medic, beberapa website yang terpercaya seperti Alodokter, dan Buku-buku populer yang telah dipublikasikan seperti Pedoman Perawatan Sendiri oleh MayoClinic, Intisari.

@@ -36,10 +36,12 @@ function Home() {
     const highlight = SearchBar(search, texts);
     setHighlight(highlight);
     setPopupVisible(true);
-    const element = document.querySelector('mark');
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
+    setTimeout(() => {
+        const element = document.querySelector('mark');
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 0);
   };
 
   const handleInputChange = (event: { target: { value: string; }; }) => {

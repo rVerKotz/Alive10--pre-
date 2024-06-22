@@ -58,6 +58,10 @@ pre {
   padding: 0 10px;
 }
 
+.header > img {
+  cursor: pointer;
+}
+
 .header form {
   display: flex;
   align-items: center;

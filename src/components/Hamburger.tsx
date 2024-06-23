@@ -1,4 +1,4 @@
-import { useState, useEffect, useContext ,ReactNode } from 'react';
+import { useState, useContext ,ReactNode } from 'react';
 import { WindowSize } from '../App';
 
 export interface HamburgerProps {
@@ -10,10 +10,6 @@ export interface HamburgerProps {
 export function Hamburger({ onClick, isInitiallyOpen, children }: HamburgerProps) {
     const { width } = useContext(WindowSize);
     const [isOpen, setIsOpen] = useState<boolean>(isInitiallyOpen ?? false);
-
-    useEffect(() => {
-        setIsOpen(width <= 768);
-    }, [width]);
 
     const handleClick = () => {
         setIsOpen((prev) => !prev);
